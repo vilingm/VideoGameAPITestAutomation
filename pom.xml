@@ -6,10 +6,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com</groupId>
-	<artifactId>RestAssured_Framework_Project</artifactId>
+	<artifactId>VideoGameAPIAutomation</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
-	<name>RestAssured_Framework_Project</name>
+	<name>VideoGame API Automation</name>
 	<!-- FIXME change it to the project's website -->
 	<url>http://http://localhost:8080/app</url>
 	<developers>
